@@ -1,5 +1,5 @@
 input[type="button"] {
-  background: #5c42f4;
+  background: #966F33;
   /* width: 20%; */
   /* font-size: 40px; */
   font-weight: 500;
@@ -11,7 +11,7 @@ input[type="button"] {
 input[type="text"] {
   width: 90%;
   font-size: 20px;
-  border: 2px inset #f442df;
+  border: 2px inset #00FF00;
   border-width: 3px;
 }
 
